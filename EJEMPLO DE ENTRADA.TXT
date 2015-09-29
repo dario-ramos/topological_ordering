@@ -1,0 +1,9 @@
+A continuación se muestra la manera con que deben ingresarse los datos para construir el grafo en el programa:
+
+COD_MATERIA1: COD_CORRELATIVA1,COD_CORRELATIVA2,...,COD_CORRELATIVAn
+COD_MATERIA2: COD_CORRELATIVA1,COD_CORRELATIVA2,...,COD_CORRELATIVAn
+COD_MATERIA3: COD_CORRELATIVA1,COD_CORRELATIVA2,...,COD_CORRELATIVAn
+...
+COD_MATERIAn: COD_CORRELATIVA1,COD_CORRELATIVA2,...,COD_CORRELATIVAn
+
+Observar que, luego de los dos puntos debe ir un espacio en blanco y que luego de las comas que separan las materias, no.
